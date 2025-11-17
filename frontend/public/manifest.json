@@ -1,0 +1,18 @@
+{
+  "name": "FitConnect",
+  "short_name": "FitConnect",
+  "description": "Community Engagement Fitness Platform - Track activities, join challenges, connect with friends",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#4ECDC4",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
