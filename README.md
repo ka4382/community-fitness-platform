@@ -722,7 +722,7 @@ Student passionate about **AI/ML, GenAI, and Full-Stack Development**
 
 ### 🔗 Connect
 - **GitHub**: [github.com/ka4382](https://github.com/ka4382)
-- **LinkedIn**: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+- **LinkedIn**: [linkedin.com/in/karthik-aljapur](https://www.linkedin.com/in/karthik-aljapur/)
 - **Email**: aljapurkarthik@gmail.com
 
 
