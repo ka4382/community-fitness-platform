@@ -1,6 +1,24 @@
 # Community Engagement Fitness Platform
 
-Full-stack fitness social platform with activity tracking, challenges, groups, and real-time chat.
+<p align="center">
+  <strong>Full-stack fitness social platform with activity tracking, challenges, groups, and real-time chat</strong>
+</p>
+
+<p align="center">
+  Built by <a href="https://github.com/ka4382">@ka4382</a>
+  <br/>
+  Student • C++ & Python • Frontend Developer • AI/ML & GenAI Enthusiast
+</p>
+
+<p align="center">
+  <a href="#-features">Features</a> •
+  <a href="#-quick-start">Quick Start</a> •
+  <a href="#-api-endpoints">API</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="https://github.com/ka4382/community-fitness-platform">GitHub</a>
+</p>
+
+---
 
 ## 🏗️ Architecture
 
@@ -697,5 +715,29 @@ VITE_WS_URL=ws://localhost:8000     # Production WS URL
 
 ---
 
-**Built with ❤️ for the fitness community**
+## 👨‍💻 About the Developer
+
+Built by **[ak (@ka4382)](https://github.com/ka4382)**  
+Student passionate about **AI/ML, GenAI, and Full-Stack Development**
+
+### 🔗 Connect
+- **GitHub**: [github.com/ka4382](https://github.com/ka4382)
+- **LinkedIn**: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+- **Email**: aljapurkarthik@gmail.com
+
+
+### 🌟 Other Projects
+- 🌾 [Smart Crop Rotatory Advisor](https://github.com/ka4382/Smart-Crop-Rotatary-Advisor) - ML-powered crop rotation system
+- 🧠 [Resume Ranker AI](https://github.com/ka4382/resume-ranker) - Resume ranking with embeddings + GenAI
+- ⌨️ [Terminal Typing Game](https://github.com/ka4382/terminal-typing-game) - Terminal-based typing speed game
+- 📧 [Spam Email Classifier](https://github.com/ka4382/spam-email-classifier) - NLP-based email classification
+- 🔢 [MNIST Classifier](https://github.com/ka4382/MNIST_Project) - Deep learning digit recognition
+
+---
+
+<p align="center">
+  <strong>Built with ❤️ for the fitness community</strong>
+  <br/>
+  If you find this useful, give it a ⭐ on <a href="https://github.com/ka4382/community-fitness-platform">GitHub</a>!
+</p>
 
